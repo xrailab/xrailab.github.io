@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "XRAI Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Exteded Reality & Artificial Intelligence Lab at University of Basilicata."
 sitemap: false
 permalink: /
 ---
