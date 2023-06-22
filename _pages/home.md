@@ -23,22 +23,16 @@ We are a research group at the [University of Basilicata](https://www.unibas.it)
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide3.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide4.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -57,7 +51,7 @@ The field of Artificial Intelligence (AI) is another pillar of our research. We 
 
 One of our key application areas is Extended Reality (XR), which includes Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). We design and build sophisticated XR systems that provide engaging and immersive experiences. These systems leverage our computer graphics and AI work, resulting in highly interactive, realistic, and responsive virtual worlds.
 
-We also specialize in Human-Computer Interaction (HCI), applying our understanding of AI and computer graphics to develop intuitive and efficient interfaces between humans and machines. These interfaces are designed with a strong emphasis on user experience, employing methods like eye-tracking, gesture recognition, and haptic feedback to create seamless and natural interfaces.
+We also specialize in Human-Computer Interaction (HCI), applying our understanding of AI and computer graphics to develop intuitive and efficient interfaces between humans and machines. These interfaces strongly emphasise user experience, employing methods like eye-tracking, gesture recognition, and haptic feedback to create seamless and natural interfaces.
 
 In conclusion, our research group operates at the intersection of technology and creativity, combining scientific rigour with an inventive spirit. By drawing on our strengths in computer graphics, artificial intelligence, extended reality, and human-computer interaction, we aim to transform how people interact with and perceive the digital world (see [Research](research)).
 
