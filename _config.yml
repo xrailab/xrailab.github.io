@@ -11,7 +11,7 @@ email: lab3d@unibas.it
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Extended Reality & Artificial Intelligence Lab @ University of Basilicata, Italy.
 baseurl: ""
-url: "/_pages"
+url: ""
 
 include:
   - .htaccess
