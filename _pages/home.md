@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [University of Basilicata](https://www.unibas.it) specializes in the field of Computer Graphics and Artificial Intelligence. Our mission is to foster the exploration of these intersecting areas of technology and to advance their development with a focus on applicability and innovation.
+We are a research group at the [University of Basilicata](https://www.unibas.it) specialising in Computer Graphics and Artificial Intelligence. Our mission is to foster the exploration of these technologies for immersive XR experiences, human-centric interfaces, realistic simulations, and innovative content generation using artificial intelligence.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
