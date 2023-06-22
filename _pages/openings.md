@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "XRAI Lab - Home"
 layout: textlay
-excerpt: "Openings"
+excerpt: "eXtended Reality & Artificial Intelligence Lab at University of Basilicata."
 sitemap: false
 permalink: /vacancies
 ---
