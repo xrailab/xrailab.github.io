@@ -1,9 +1,10 @@
 ---
-title: "Allan Lab - Pictures"
+title: "XRAI Lab - Home"
 layout: piclay
 excerpt: "Allan Lab -- Pictures"
 permalink: /pictures/
 ---
+
 
 # Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
