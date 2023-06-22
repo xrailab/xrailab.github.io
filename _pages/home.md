@@ -51,13 +51,11 @@ The field of Artificial Intelligence (AI) is another pillar of our research. We 
 
 One of our key application areas is Extended Reality (XR), which includes Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). We design and build sophisticated XR systems that provide engaging and immersive experiences. These systems leverage our computer graphics and AI work, resulting in highly interactive, realistic, and responsive virtual worlds.
 
-We also specialize in Human-Computer Interaction (HCI), applying our understanding of AI and computer graphics to develop intuitive and efficient interfaces between humans and machines. These interfaces strongly emphasise user experience, employing methods like eye-tracking, gesture recognition, and haptic feedback to create seamless and natural interfaces.
+We also specialize in Human-Computer Interaction (HCI), applying our understanding of AI and computer graphics to develop intuitive and efficient interfaces between humans and machines. These interfaces strongly emphasise user experience, employing eye-tracking, gesture recognition, and haptic feedback to create seamless and natural interfaces.
 
 In conclusion, our research group operates at the intersection of technology and creativity, combining scientific rigour with an inventive spirit. By drawing on our strengths in computer graphics, artificial intelligence, extended reality, and human-computer interaction, we aim to transform how people interact with and perceive the digital world (see [Research](research)).
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
