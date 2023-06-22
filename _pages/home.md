@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [University of Basilicata](https://www.unibas.it). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+We are a research group at the [University of Basilicata](https://www.unibas.it) specializes in the field of Computer Graphics and Artificial Intelligence. Our mission is to foster the exploration of these intersecting areas of technology and to advance their development with a focus on applicability and innovation.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,12 +51,19 @@ We are a research group at the [University of Basilicata](https://www.unibas.it)
   </a>
 </div>
 
+In the realm of Computer Graphics, we work on the cutting edge, pushing the envelope of what is possible in creating lifelike and immersive virtual environments. Our work in this area spans the entire gamut from realistic rendering, animation, and visual effects, to the development of novel algorithms that can efficiently generate and manage complex 3D environments.
 
+The field of Artificial Intelligence (AI) is another pillar of our research. We focus on a range of AI techniques from machine learning, deep learning, to natural language processing. Our expertise in these areas underpins our innovative work in content generation and simulations. We design intelligent algorithms capable of autonomously generating content or running simulations that are not only accurate but can adapt to the changing requirements of the real world.
 
+One of our key application areas is Extended Reality (XR), which includes Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). We design and build sophisticated XR systems that provide engaging and immersive experiences. These systems leverage our work in computer graphics and AI, resulting in highly interactive, realistic, and responsive virtual worlds.
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+We also specialize in Human-Computer Interaction (HCI), an area where we apply our understanding of AI and computer graphics to develop intuitive and efficient interfaces between humans and machines. These interfaces are designed with a strong emphasis on user experience, employing methods like eye-tracking, gesture recognition, and haptic feedback to create interfaces that are seamless and natural to use.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+In conclusion, our research group operates at the intersection of technology and creativity, combining scientific rigor with an inventive spirit. By drawing on our strengths in computer graphics, artificial intelligence, extended reality, and human-computer interaction, we aim to transform the way people interact with and perceive the digital world.
+
+{%To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific %questions we deem most important (see [Research](research)).%}
+
+%We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
