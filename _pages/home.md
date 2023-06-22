@@ -1,7 +1,7 @@
 ---
 title: "XRAI Lab - Home"
 layout: homelay
-excerpt: "Exteded Reality & Artificial Intelligence Lab at University of Basilicata."
+excerpt: "eXteded Reality & Artificial Intelligence Lab at University of Basilicata."
 sitemap: false
 permalink: /
 ---
