@@ -1,9 +1,8 @@
 - name: Ugo Erra
   photo: Erra.jpg
   info: Associate professor, head of XRAI Lab
-  email: ugo.erra@unibas.it
-  number_educ: 2
-  education1: email <a href="ugo.erra@unibas.it">ugo.erra@unibas.it</a>
+  info: <a href="xrailab.github.io/erra">xrailab.github.io/erra@unibas.it</a>
+  info: <a href="ugo.erra@unibas.it">ugo.erra@unibas.it</a>
   
 - name: Nicola Felice Capece
   photo: Capece.png
