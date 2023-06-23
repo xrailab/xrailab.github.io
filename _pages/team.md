@@ -1,7 +1,7 @@
 ---
 title: "Allan Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "eXtended Reality & Artificial Intelligence Lab at University of Basilicata: Team members"
 sitemap: false
 permalink: /team/
 ---
