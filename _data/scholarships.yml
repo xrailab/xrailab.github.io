@@ -1,0 +1,32 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Giuseppe Caggianese
+  photo: Caggianese.png
+  info: Former PhD student<br>Senior Research Staff at CNR-ICAR<br>https://www.icar.cnr.it/persone/caggianese/
+  email: giuseppe.caggianese@icar.cnr.it
+  number_educ: 0
+  education1:
+
+- name: Monica Gruosso
+  photo: Gruosso.jpeg
+  info: Former PhD student<br>Senior Software Designer at e-Novia
+  email: https://www.linkedin.com/in/monicagruosso/?originalSubdomain=it
+  number_educ: 0
+  education1:
+
+- name: Nicla Notarangelo
+  photo: Notarangelo.jpeg
+  info: Former Research Fellowship<br>MSCA Postdoc Fellow at WE
+  email: https://www.linkedin.com/in/niclanotarangelo/
+  number_educ: 0
+  education1:
+
+
