@@ -17,15 +17,15 @@
 
 - name: Monica Gruosso
   photo: Gruosso.jpeg
-  info: Former PhD student<br>Senior Software Designer at e-Novia
-  email: https://www.linkedin.com/in/monicagruosso/?originalSubdomain=it
+  info: Former PhD student<br>Senior Software Designer at e-Novia<br>https://www.linkedin.com/in/monicagruosso/
+  email: gruosso.monica@gmail.com 
   number_educ: 0
   education1:
 
 - name: Nicla Notarangelo
   photo: Notarangelo.jpeg
-  info: Former Research Fellowship<br>MSCA Postdoc Fellow at WEO
-  email: https://www.linkedin.com/in/niclanotarangelo/
+  info: Former Research Fellowship<br>MSCA Postdoc Fellow at WEO<br>https://www.linkedin.com/in/niclanotarangelo/
+  email: nicla.notarangelo@gmail.com 
   number_educ: 0
   education1:
 
