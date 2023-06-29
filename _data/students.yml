@@ -8,23 +8,23 @@
 #  education3:
 #  education4:
 
-- name: Giuseppe Caggianese
+- name: <a href="https://www.icar.cnr.it/persone/caggianese/">Giuseppe Caggianese</a>
   photo: Caggianese.png
-  info: Senior Research Staff at CNR-ICAR<br>Former PhD student<br>https://www.icar.cnr.it/persone/caggianese/
+  info: Senior Research Staff at CNR-ICAR<br>Former PhD student<br>
   email: giuseppe.caggianese@icar.cnr.it
   number_educ: 0
   education1:
 
-- name: Monica Gruosso
+- name: <a href="https://www.linkedin.com/in/monicagruosso/">Monica Gruosso</a>
   photo: Gruosso.jpeg
-  info: Senior Software Designer at e-Novia<br>Former PhD student<br>https://www.linkedin.com/in/monicagruosso/
+  info: Senior Software Designer at e-Novia<br>Former PhD student<br>
   email: gruosso.monica@gmail.com 
   number_educ: 0
   education1:
 
-- name: Nicla Notarangelo
+- name: <a href="https://www.linkedin.com/in/niclanotarangelo/">Nicla Notarangelo</a>
   photo: Notarangelo.jpeg
-  info: MSCA Postdoc Fellow at WEO<br>Former Research Fellowship<br>https://www.linkedin.com/in/niclanotarangelo/
+  info: MSCA Postdoc Fellow at WEO<br>Former Research Fellowship<br>
   email: nicla.notarangelo@gmail.com 
   number_educ: 0
   education1:
