@@ -1,14 +1,14 @@
-- name: Ugo Erra
+- name: <a href="https://xrailab.github.io/erra">Ugo Erra</a>
   photo: Erra.jpg
-  info: Associate professor, head of XRAI Lab<br><br><a href="https://xrailab.github.io/erra">xrailab.github.io/erra</a><br>ugo.erra@unibas.it
+  info: Associate professor, head of XRAI Lab<br><br>ugo.erra@unibas.it
   
 - name: <a href="https://xrailab.github.io/capece">Nicola Felice Capece</a>
   photo: Capece.png
-  info: Postdoc, Senior Research Staff<br><br><a href="https://xrailab.github.io/capece">xrailab.github.io/capece</a><br>nicola.capece@unibas.it
+  info: Postdoc, Senior Research Staff<br><br>nicola.capece@unibas.it
   
-- name: Gabriele Gilio
+- name: <a href="https://xrailab.github.io/gilio">Gabriele Gilio</a>
   photo: Gilio.jpg
-  info: Research Staff<br><br><a href="https://xrailab.github.io/gilio">xrailab.github.io/gilio</a><br>gabriele.gilio@unibas.it
+  info: Research Staff<br><br>gabriele.gilio@unibas.it
   
 - name: "This could be you !"
   photo: Iwantyou.jpg
