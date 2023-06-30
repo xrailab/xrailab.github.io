@@ -70,7 +70,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## PhD Students
+## PhD students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_members %}
@@ -103,7 +103,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Scholarship Students
+## Scholarship students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.scholarships %}
