@@ -10,7 +10,7 @@
 
 - name: <a href="https://www.linkedin.com/in/roberto-agatiello-549008a2/">Roberto Agatiello</a>
   photo: Agatiello.jpg
-  info: Former Scholarship Student<br>Digital Business integration Consultant at Accenture
+  info: Former Scholarship Student<br>Digital Business Integration Consultant at Accenture
   email: 
   number_educ: 0
   education1:
@@ -18,6 +18,13 @@
 - name: Vincenzo Macellaro
   photo: Macellaro.jpg
   info: Former Scholarship Student<br>CE Master Student at Unimore
+  email: 
+  number_educ: 0
+  education:
+
+- name: <a href="https://www.linkedin.com/in/valerio-colonnese-1a753950/">Valerio Colonnese</a>
+  photo: Colonnese.jpg
+  info: Former Scholarship Student<br>CS Professor at Technical School
   email: 
   number_educ: 0
   education:
